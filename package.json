@@ -1,0 +1,23 @@
+{
+  "name": "particle",
+  "version": "1.0.0",
+  "description": "My Beautiful App",
+  "main": "index.js",
+  "dependencies": {
+    "three": "^0.117.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakanakaShot/particle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nakanakaShot/particle/issues"
+  },
+  "homepage": "https://github.com/nakanakaShot/particle#readme"
+}
